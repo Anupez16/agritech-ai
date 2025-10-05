@@ -1,0 +1,29 @@
+# Python virtual environments
+venv/
+*/venv/
+
+# Byte-compiled / cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# TensorFlow or large model files (keep only trained versions)
+*.h5
+*.pkl
+*.ckpt
+*.pb
+
+# Environment & IDE files
+.env
+.env.local
+*.log
+.DS_Store
+.idea/
+.vscode/
+
+# Node.js
+node_modules/
+.next/
+out/
+dist/
